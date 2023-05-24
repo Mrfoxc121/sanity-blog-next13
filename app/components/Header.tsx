@@ -18,7 +18,7 @@ function Header() {
             </div>
 
             <div>
-                <Link href="#" 
+                <Link href="https://shopify-store-nextjs-app.vercel.app/" 
                 className="px-5 py-3 text-sm md:text-base bg-[#FF7F50] text-[#F5DEB3] flex items-center rounded-full text-center">
                     Visit our shop
                 </Link>
